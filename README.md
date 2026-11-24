@@ -114,3 +114,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: windsurf-session-tool, session, rotate, windows, tool, utility, windsurf, cli, developer-tools, open-source, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+windsurf session rotate windows tool utility windsurf-session-tool wsr-rotate windsurf-session-rotate windows portable prebuilt x64 free download
+related: windsurf, session, rotate, windows, tool, utility
