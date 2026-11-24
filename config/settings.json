@@ -1,0 +1,29 @@
+{
+  "module": "windsurf-session-tool",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "r": {
+      "enabled": true
+    },
+    "o": {
+      "enabled": true
+    },
+    "t": {
+      "enabled": true
+    },
+    "a": {
+      "enabled": true
+    },
+    "e": {
+      "enabled": true
+    },
+    "s": {
+      "enabled": true
+    }
+  }
+}
